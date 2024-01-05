@@ -2382,4 +2382,18 @@ flex-direction: column;
     }
 
 
+    .input .ok {
+        top: -23px;
+        font-size: 15px;
+        text-align: center;
+    }
+
+
+    .part_7-div .ok {
+        position: relative;
+        font-size: 15px;
+        text-align: center;
+    }
+
+
 }
