@@ -1,4 +1,11 @@
 
+// this is load 
+let load = document.querySelector(".loader");
+window.addEventListener("load",()=>{
+    load.style.display="none";
+});
+
+
 // add background to heder
 
 function addBackground() {
